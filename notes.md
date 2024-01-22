@@ -1,6 +1,8 @@
 # SORTING
 
-sorting permutatin - [1,4,5 2,1,8] decending => [1,1,2,4,5,8]
+sorting (permutation) refers to bringing a set of items into some well-defined
+order. To be able to do this, we first need to specify the notion of order on the items we are
+considering [1,4,5 2,1,8] decending => [1,1,2,4,5,8]
 
 ## Diffentent ways of sorting
  -  insertion sort
